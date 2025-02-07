@@ -6,7 +6,6 @@ Este projeto foi criado como parte de um desafio técnico da SOIRTEC para candid
 
 - Seguir o tutorial oficial do Django para configurar o banco de dados e as tabelas necessárias.
 - Implementar métodos no modelo `Question` para calcular o total de votos e verificar se a questão possui votos.
-- Configurar o arquivo `.gitignore` para não incluir o arquivo `db.sqlite3`.
 
 ## Funcionalidades Implementadas
 
@@ -54,7 +53,7 @@ Este projeto foi criado como parte de um desafio técnico da SOIRTEC para candid
 
 
 6. **Acesse a página principal e o painel de administração no seguinte endereço:**:
-   ```bash
+
 Página principal: http://127.0.0.1:8000/
 Admin: http://127.0.0.1:8000/admin/
 
